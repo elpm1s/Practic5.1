@@ -7,13 +7,13 @@
 
 
 
-void task1() //номер 1
+void main() //Г­Г®Г¬ГҐГ° 1
 {
 	setlocale(LC_ALL, "RUS");
 
 	float gr, result;
 
-	printf("введите градус:\n");
+	printf("ГўГўГҐГ¤ГЁГІГҐ ГЈГ°Г Г¤ГіГ±:\n");
 
 	scanf("%f", &gr);
 
